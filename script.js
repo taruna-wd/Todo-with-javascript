@@ -1,4 +1,3 @@
-document.addEventListener("DOMContentLoaded", () => {
 
     const button = document.getElementById("add");
     let li = document.querySelector("li");
@@ -35,7 +34,6 @@ document.addEventListener("DOMContentLoaded", () => {
       });
 
       
-    });
   });
 
 
